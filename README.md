@@ -1,4 +1,5 @@
 ## 📘 Job Board API
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/elhamabdelmonsef/job-board-api)
 
 A RESTful API built with Laravel for managing and filtering job postings with advanced filtering capabilities including EAV (Entity-Attribute-Value) attributes.
 
